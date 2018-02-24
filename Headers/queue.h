@@ -1,5 +1,5 @@
 #pragma once
-#include "q_stdafx.h"
+
 
 typedef struct {
 	void* (*arr);
